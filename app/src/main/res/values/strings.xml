@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsAPI</string>
+    <string name="search">Search</string>
+    <string name="previous">previous</string>
+    <string name="next">next</string>
+    <string name="no_data_here">NO DATA</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="english">English</string>
+    <string name="share">Share</string>
+    <string name="read_more">Read more</string>
+</resources>
